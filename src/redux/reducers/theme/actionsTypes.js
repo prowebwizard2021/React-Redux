@@ -1,0 +1,1 @@
+export const SET_THEME_DARK = 'SET_THEME_DARK';
